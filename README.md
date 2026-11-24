@@ -1,6 +1,6 @@
 # Hi, I'm yh-DMIR 👋
 
-I'm a graduate student researching **tabular foundation models**, with hands-on project experience in **AI agents and backend development**. I'm currently seeking **AI Agent development opportunities** and looking to contribute to open-source tools I use.
+I'm a graduate student researching **tabular foundation models**, with hands-on experience in **AI agents, backend development, and collaboration across multiple open-source projects**. I'm currently seeking **AI Agent development opportunities**.
 
 ## What I work on
 
@@ -26,8 +26,8 @@ Target-Conditioned Asymmetric Parameter Projection for ranking source task check
 **Agents & retrieval:** LangChain · LangGraph · MCP · Milvus · BM25 · Reranking  
 **Data & tooling:** PostgreSQL · MySQL · Redis · Git · Docker · Linux
 
-## Open-source interests
+## Open-source collaboration
 
-I'm interested in contributing bug fixes, tests, documentation, and integrations to agent frameworks, MCP tooling, retrieval systems, and ML developer tools.
+I've collaborated on multiple open-source projects. My technical interests include agent frameworks, MCP tooling, retrieval systems, and ML developer tools, and I'm open to further collaboration in these areas.
 
 For technical discussions, please use an issue or discussion in the relevant public repository.
